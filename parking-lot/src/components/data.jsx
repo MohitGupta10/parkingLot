@@ -5,7 +5,7 @@ import { addTodo } from "../reducers/actions";
 import "./Todo.css";
 function ParkItems({ todo }) {
   let dispatch = useDispatch();
-  let id = todo.id;
+  //let id = todo.id;
   let [name, setName] = useState();
   let [phone, setPhone] = useState();
   let [vehicle, setVehicle] = useState();

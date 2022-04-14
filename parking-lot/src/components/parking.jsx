@@ -9,7 +9,7 @@ export function Parking()
 	return(
 		<div className="my-4">
 
-			<h1 className="text-center">Book Slots</h1>
+			<h1 className="text-center">BookSlots</h1>
 
 		<hr/>
 		{
