@@ -1,0 +1,123 @@
+export const todos=[
+{
+	id:1,
+	name:null,
+	phone: null,
+	vehicle:null,
+},
+{
+	id:2,
+	name:null,
+	phone: null,
+	vehicle:null,
+},
+{
+	id:3,
+	name:null,
+	phone: null,
+	vehicle:null,
+},
+{
+	id:4,
+	name:null,
+	phone: null,
+	vehicle:null,
+},
+{
+	id:5,
+	name:null,
+	phone: null,
+	vehicle:null,
+},
+{
+	id:6,
+	name:null,
+	phone: null,
+	vehicle:null,
+},
+{
+	id:7,
+name:null,
+	phone: null,
+	vehicle:null,
+},
+{
+	id:8,
+	name:null,
+	phone: null,
+	vehicle:null,
+},
+{
+	id:9,
+	name:null,
+	phone: null,
+	vehicle:null,
+},
+{
+	id:10,
+	name:null,
+	phone: null,
+	vehicle:null,
+},
+{
+	id:11,
+	name:null,
+	phone: null,
+	vehicle:null,
+},
+{
+	id:12,
+	name:null,
+	phone: null,
+	vehicle:null,
+},
+{
+	id:13,
+	name:null,
+	phone: null,
+	vehicle:null,
+},
+{
+	id:14,
+	name:null,
+	phone: null,
+	vehicle:null,
+},
+{
+	id:15,
+name:null,
+	phone: null,
+	vehicle:null,
+},
+{
+	id:16,
+	name:null,
+	phone: null,
+	vehicle:null,
+},
+{
+	id:17,
+	name:null,
+	phone: null,
+	vehicle:null,
+},
+{
+	id:18,
+	name:null,
+	phone: null,
+	vehicle:null,
+},
+{
+	id:19,
+	name:null,
+	phone: null,
+	vehicle:null,
+},
+{
+	id:20,
+	name:null,
+	phone: null,
+	vehicle:null,
+},
+
+]
