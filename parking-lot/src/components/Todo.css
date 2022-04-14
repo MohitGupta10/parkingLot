@@ -1,7 +1,7 @@
 .size
 {
-  display:inline-block;
-margin:auto;
+display:flex;
+justify-content: center;
   height:400px;
   width:300px;
 }
