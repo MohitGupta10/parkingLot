@@ -3,7 +3,7 @@ import { useDispatch } from 'react-redux';
 import { deleteTodo } from '../reducers/actions';
 import { addTodo } from '../reducers/actions';
 import './TodoInput.css';
-function TodoItem({ todo }) {
+function ParkItems({ todo }) {
 	let dispatch = useDispatch();
 	let id = todo.id;
 	let [name, setName] = useState();
@@ -95,4 +95,4 @@ function TodoItem({ todo }) {
 
 	)
 }
-export default TodoItem;
+export default ParkItems;
